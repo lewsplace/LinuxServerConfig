@@ -16,5 +16,5 @@ bla bla bla
 http://ec2-52.45.147.59.us-east-1.compute.amazonaws.com
 
 # Create virtual server instance on Amazon Lightsail
-## Goto:  https://lightsail.aws.amazon.com/ls/webapp/home/resources
+### Goto:  https://lightsail.aws.amazon.com/ls/webapp/home/resources
 
